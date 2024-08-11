@@ -576,3 +576,15 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
 metafile = true
+
+[[files]]
+file = "prism/instance.cfg"
+hash = "99d2c0792e1e06c0bf60c764b0007f3ca2f843b656d02007740b393c445f4b5c"
+
+[[files]]
+file = "prism/mmc-pack.json"
+hash = "b780b807e34852f87d94e4ee7956fe598873e9708d4eccd2acf12aba4244a484"
+
+[[files]]
+file = "prism/server-icon-256.png"
+hash = "8c5216667573f9cb2d3a16507bc776d2f1911bf14a067b5ad6d595a9849c5b18"
