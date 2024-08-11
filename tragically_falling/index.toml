@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/egg-delight.pw.toml"
-hash = "b1eaf2d451b40a6b34cb99166cde9c86e549dfacb41f68250fdab689414d924e"
+hash = "bd94877435b11899accf6e85dc5fcf766463bdad90cbf089956ad7c28cac9879"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "3de9fc56a1f656b20b308f462aac84aa50bd30551371137b752db21cf5091cfd"
+hash = "94ff749ff050e6cc3a4a3e2ddf539f3165335a34ba911f5ccfcbc6e23c3ace72"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a7ef1d4b49a5c1ad4ddb1206240550812572a913c50ca87adfe32b04d1317967"
+hash = "599de647985b3811547e31b6b56fb96f81dcd14ca9343544a77c0860490ba596"
 metafile = true
 
 [[files]]
@@ -378,14 +378,13 @@ hash = "8a8e0f6db0afb5c64f8efb17c1b2e7a937fee57a8fd41f70ca6d74eaee60e822"
 metafile = true
 
 [[files]]
-file = "mods/quark-delight.pw.toml"
-hash = "3530e36f831f968105b2a8f5fe476eb2045bb4ad9f04a757958a94ad81f87790"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "1d72ac6ec515db48cb89dae58345b514524f195bc5ab1942d1ce9fb91d30defd"
 metafile = true
+
+[[files]]
+file = "mods/quark_delight_1.0.0_forge_1.20.1.jar"
+hash = "1ca98c2776cbb0f4feb226d26adda6e393cb5a393d74b1397f4f2136e563193b"
 
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
@@ -576,15 +575,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
 metafile = true
-
-[[files]]
-file = "prism/instance.cfg"
-hash = "99d2c0792e1e06c0bf60c764b0007f3ca2f843b656d02007740b393c445f4b5c"
-
-[[files]]
-file = "prism/mmc-pack.json"
-hash = "b780b807e34852f87d94e4ee7956fe598873e9708d4eccd2acf12aba4244a484"
-
-[[files]]
-file = "prism/server-icon-256.png"
-hash = "8c5216667573f9cb2d3a16507bc776d2f1911bf14a067b5ad6d595a9849c5b18"
